@@ -1,0 +1,19 @@
+{
+  "name": "PRIYANSHU DUBEY",
+  "age": 20,
+  "gender": "male",
+  "height": 170.0,
+  "weight": 61.0,
+  "goal": "maintenance",
+  "activity_level": "light",
+  "food_preference": "non-vegetarian",
+  "budget": "low",
+  "medical_conditions": [
+    "none"
+  ],
+  "allergies": [
+    "none"
+  ],
+  "gym_status": "non-gym user",
+  "is_pregnant": false
+}
